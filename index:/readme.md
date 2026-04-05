@@ -1,0 +1,4 @@
+- https://www.coursera.org/learn/embedded-systems-using-c
+- https://www.coursera.org/learn/getting-started-with-bsp-and-embedded-c
+- https://www.coursera.org/learn/packt-crash-course-on-embedded-c-programming-915bi
+- https://www.coursera.org/learn/embedded-c-programming-essentials
