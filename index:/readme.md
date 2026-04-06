@@ -2,3 +2,5 @@
 - https://www.coursera.org/learn/getting-started-with-bsp-and-embedded-c
 - https://www.coursera.org/learn/packt-crash-course-on-embedded-c-programming-915bi
 - https://www.coursera.org/learn/embedded-c-programming-essentials
+- https://www.coursera.org/learn/arduino-platform
+- https://www.coursera.org/specializations/advanced-embedded-linux-development
