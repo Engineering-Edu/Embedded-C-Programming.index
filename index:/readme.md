@@ -4,3 +4,11 @@
 - https://www.coursera.org/learn/embedded-c-programming-essentials
 - https://www.coursera.org/learn/arduino-platform
 - https://www.coursera.org/specializations/advanced-embedded-linux-development
+- https://www.coursera.org/learn/embedded-systems-using-c
+- https://www.coursera.org/specializations/c-programming-linux
+- https://www.coursera.org/specializations/c-programming
+- https://www.coursera.org/specializations/fpga-design
+- https://www.coursera.org/learn/embedded-systems-using-c
+- https://www.coursera.org/specializations/real-time-embedded-systems
+- https://www.coursera.org/learn/introduction-embedded-systems
+- https://www.coursera.org/learn/embedded-c-programming-essentials
